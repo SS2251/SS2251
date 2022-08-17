@@ -3,7 +3,7 @@
 - 👀 I’m interested in tech and art
 - 🌱 I've got tech skills in bioinformatics and electrical engineering
 - 🌱 I’m currently learning web and interface design
-- 💞️ I’m looking to collaborate on AI in healthcare
+- 💞️ I’m looking to collaborate on AI in healthcare and visualisation
 - 📫 How to reach me : just send me a message and i will resopnd asap
 
 <!---
