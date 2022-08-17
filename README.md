@@ -4,7 +4,7 @@
 - 🌱 I've got tech skills in bioinformatics and electrical engineering
 - 🌱 I’m currently learning web and interface design
 - 💞️ I’m looking to collaborate on AI in healthcare and visualisation
-- 📫 How to reach me : just send me a message and i will resopnd asap
+- 📫 How to reach me : send me an email is just perfect
 
 <!---
 SS2251/SS2251 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
